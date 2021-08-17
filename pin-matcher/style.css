@@ -88,6 +88,7 @@ color: #E0B612;
     color: #fff;
 }
 .notify {
+    display: none;
     color: #fff;
     text-align: center;
     margin: 0 auto;
